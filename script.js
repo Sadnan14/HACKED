@@ -53,12 +53,11 @@ class TextScramble {
 }
 
 const phrases = [
+  'THIS WEBSITE IS HACKED BY NTF',
   'YOU ARE RREEAALLYY HACKED',
   'YOU DON0T HAVE ENOUGH KNOWEDGE',
   'I AM A HACKER, who HACK TO DEFENCE A COUNTRY',
   'THERE IS NONE.TO WATCH THE HACKING',
-  'STAY SAFE ;I HOPE',
-  'You may be carefull...',
   'hah,BETTER LUCK NEXT TIME.'
 ]
 
